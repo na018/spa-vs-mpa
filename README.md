@@ -1,5 +1,5 @@
 # spa-vs-mpa
-## ABstract
+## Abstract
 Performance is one of the key indicators for users declaring a web application as
 comfortable to use or not. Sadly in a lot of cases performance is only spent little
 attention to. The main focus is still on the functionality of the application. How-
